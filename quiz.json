@@ -1,8 +1,8 @@
 [
     {
         "tema": "Bilde",
-        "spørsmål" : "Hva står RBG for?",
-        "svar": "Rød, Blå, Grønn"
+        "spørsmål" : "Hvilket tall represnterer hvit i binær kode?",
+        "svar": "0"
     },
 
     {
